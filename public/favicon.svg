@@ -1,0 +1,18 @@
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Modern Dark Slate Background -->
+  <rect width="32" height="32" rx="8" fill="#0f172a" />
+  
+  <!-- Terminal Prompt Symbol -->
+  <path d="M6 10L12 16L6 22" stroke="#5eead4" stroke-width="3" fill="none" stroke-linecap="round" stroke-linejoin="round" />
+  
+  <!-- "DH" Monospace Initials -->
+  <text x="14" y="21" fill="#f8fafc" font-family="'JetBrains Mono', monospace" font-weight="900" font-size="11" letter-spacing="-0.5">DH</text>
+  
+  <!-- Blinking Cursor -->
+  <rect x="14" y="23" width="7" height="2" fill="#5eead4">
+    <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite" />
+  </rect>
+  
+  <!-- Sub-glow Effect -->
+  <rect width="32" height="32" rx="8" fill="none" stroke="#5eead4" stroke-width="0.5" stroke-opacity="0.3" />
+</svg>
