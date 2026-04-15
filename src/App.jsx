@@ -37,7 +37,7 @@ const SKILLS = {
 
 const EXPERIENCE = [
   {
-    period: "2024 — Present",
+    period: "2026 — Present",
     title: "Undergraduate Researcher",
     company: "Edge AI Lab @ HUST",
     description: "Researching and analyzing offensive and defensive cybersecurity techniques. Focusing on network security and threat mitigation strategies.",
@@ -47,7 +47,7 @@ const EXPERIENCE = [
     period: "2024 — Present",
     title: "Computer Engineering Student",
     company: "Hanoi University of Science and Technology",
-    description: "Consistently achieving top-tier academic performance in fundamental computer science and core engineering subjects.",
+    description: "Consistently achieving top-tier academic performance in fundamental computer science and core engineering subjects. GPA overall 3.55/4.0",
     tags: []
   },
   {
